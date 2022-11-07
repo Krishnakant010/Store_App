@@ -1,0 +1,3 @@
+ const Directory = ({categories}) =>{
+    return()
+ }
